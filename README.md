@@ -4,6 +4,7 @@ Blog post: [https://matthew-bird.com/blogs/Body-World-Eye-Mapping.html](https://
 ### Youtube videos
 [![Demo Video 1](https://img.youtube.com/vi/EAv7olLFaek/0.jpg)](https://www.youtube.com/watch?v=EAv7olLFaek)
 [![Demo Video 2](https://img.youtube.com/vi/oWKc6HfKZ_M/0.jpg)](https://www.youtube.com/watch?v=oWKc6HfKZ_M)
+
 ## Premise
 My plan for this project was to make use of 2 cameras and a variety of methods to detect/track objects in videos in order to map them in 3D. This way, it would be possible to make a 3D video that could be viewed frame by frame or as in the form of a continuous video in order to analyse volleyball games. This was largely motivated by my interest in and good body type for volleyball but terrible skills to accompany. 
 
